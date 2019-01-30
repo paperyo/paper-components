@@ -1,0 +1,5 @@
+/**
+ * Paper Components
+ */
+
+export default {}
