@@ -12,12 +12,10 @@
   },
   "private": true,
   "dependencies": {
-    "@babel/core": "^7.2.2",
-    "@babel/plugin-proposal-class-properties": "^7.3.0",
-    "@babel/plugin-syntax-jsx": "^7.2.0",
-    "@babel/polyfill": "^7.2.5",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "styled-components": "^4.1.3",
+    "typescript": "^3.2.4"
   },
   "scripts": {
     "docz:dev": "docz dev",
@@ -40,6 +38,7 @@
     "eslint-plugin-react": "^7.12.4",
     "husky": "^1.3.1",
     "lint-staged": "^8.1.1",
+    "microbundle": "^0.9.0",
     "prettier": "^1.16.2"
   },
   "husky": {
